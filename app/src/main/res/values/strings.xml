@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Veil</string>
+    <string name="tagline">Private. Minimal. Uncluttered.</string>
+    <string name="search_or_enter_url">Search or enter address</string>
+    <string name="shields_active">Shields Active</string>
+    <string name="shields_paused">Shields Paused</string>
+    <string name="trackers_blocked_count">%1$d blocked</string>
+    <string name="lifetime_blocked">%1$d trackers blocked</string>
+    <string name="new_private_tab">New Private Tab</string>
+    <string name="shred_session">Shred Session</string>
+    <string name="shred_confirmation">Browsing data shredded</string>
+    <string name="focus_mode">Focus Mode</string>
+    <string name="https_only_title">HTTPS-Only Protection</string>
+    <string name="https_only_message">This site does not support an encrypted HTTPS connection. Your traffic could be visible to others.</string>
+    <string name="ssl_error_title">Certificate Not Trusted</string>
+    <string name="ssl_error_message">The security certificate for this site could not be verified. Connection was halted to protect your privacy.</string>
+    <string name="go_back_safely">Go Back Safely</string>
+    <string name="proceed_http_once">Continue to Insecure Site</string>
+    <string name="bookmarks_title">Private Bookmarks</string>
+    <string name="settings_title">Privacy &amp; Settings</string>
+    <string name="tabs_title">Open Tabs</string>
+    <string name="paste_and_go">Paste &amp; Go</string>
+    <string name="cd_back">Navigate back</string>
+    <string name="cd_forward">Navigate forward</string>
+    <string name="cd_reload">Reload page</string>
+    <string name="cd_stop">Stop loading</string>
+    <string name="cd_shield_inspector">Open privacy and ad-block inspector</string>
+    <string name="cd_security_info">View connection security details</string>
+    <string name="cd_focus_mode">Toggle distraction-free focus mode</string>
+    <string name="cd_tabs">Open tab switcher</string>
+    <string name="cd_shred">Shred browsing data and reset</string>
+    <string name="cd_menu">Open browser menu</string>
+    <string name="cd_bookmark">Bookmark this page</string>
+    <string name="cd_close">Close</string>
+</resources>

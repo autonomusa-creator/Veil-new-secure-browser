@@ -1,0 +1,6 @@
+{
+  "name": "Veil",
+  "description": "A secure, distraction-free web browser with built-in ad and tracker blocking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
